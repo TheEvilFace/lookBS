@@ -1,0 +1,16 @@
+// app global css in SCSS form
+.fix-button-font .q-btn{
+  font-size: 1rem;
+}
+.bg-black-opacity{
+  background: rgba(0,0,0, 0.7); /* Цвет фона */
+}
+.q-page-container {
+  padding-top: 0 !important;
+}
+.img-brightness{
+  filter: brightness(0.5);
+}
+.img-greyscale{
+  filter: grayscale(1);
+}
